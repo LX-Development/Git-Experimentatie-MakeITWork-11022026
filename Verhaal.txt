@@ -3,11 +3,8 @@ De schildpad had de salamander niets verteld, die verdrietig achterbleef.
 De salamander moest huilen en ging in de IT werken, omdat...
 ... hij niet beter wist maar hij heeft nu wel spijt want werken met git is niet leuk.
 
-<<<<<<< HEAD
 In tranen probeerde hij command na command, maar niks leek te werken. Schildpad had hier wel raad mee geweten, dacht salamander verdrietig. 
-=======
 De salamander kwam erachter dat de schildpad hem verliet omdat hij naar een wereld zonder git wilde gaan. De salamander besloot een nieuw platform op te richten genaamt Subversion. 
 
 Maar gelukkig is daar schaap. Die weet hoe alles werkt met git.
 En dan is programmeren weer leuk.
->>>>>>> 6cac6f0ad0a9376e373c4424f764996b6a3e35b9
